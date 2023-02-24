@@ -26,6 +26,9 @@ public class Truncate {
      *      |'Imagine'          |'Beatles'              |
      *      |'Kashmir'          |'Led Zeppelin'         |
      */
+    public static void main(String [] ars){
+        
+    }
     public void problem2(){
         /**
          * problem2: remove all the records from the table "song"
